@@ -1,0 +1,29 @@
+.human {
+
+}
+.human__head{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+
+}
+.human__eyes{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(96, 218, 72);
+    border-radius: 100%;
+
+
+}
+.human__body{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(97, 82, 230);
+
+}
+.human__legs{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(87, 59, 59);
+
+}
